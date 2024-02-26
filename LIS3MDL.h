@@ -1,5 +1,5 @@
 //LIS3MDL.h
-
+//add line to test git
 #ifndef LIS3MDL_HEADER_H
 #define LIS3MDL_HEADER_H
 
